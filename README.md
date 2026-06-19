@@ -2,10 +2,6 @@
 
 A smart routing layer for a massive database split across multiple servers. ShardRoute directs every query to the correct server, handles transaction failures, keeps backup servers synchronized, and ensures no single server runs out of space.
 
-**Language:** C++17  
-**Case Study:** #145  
-**Course:** Data Structures and Algorithms  
-**Institution:** ITM Skills University (B.Tech CSE, 2025–29)
 
 ---
 
